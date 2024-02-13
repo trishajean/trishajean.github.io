@@ -1,6 +1,6 @@
 # Trisha Jean Ramos
 # BS Computer Science
-# Live Website link
+# Live Website link: trishajean.github.io
 # Steps on how to create a Github page 
 1. Create a new GitHub Repository
 2. Clone the Repository to Device
